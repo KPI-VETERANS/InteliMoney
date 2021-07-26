@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31512.422
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteliMoney.Android", "InteliMoney\InteliMoney.Android\InteliMoney.Android.csproj", "{F92AA057-CB86-4646-A525-E49E7B9CA796}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteliMoney", "InteliMoney\InteliMoney\InteliMoney.csproj", "{C42B183C-686A-4CF1-BD27-CA2840BBD6C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F92AA057-CB86-4646-A525-E49E7B9CA796}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92AA057-CB86-4646-A525-E49E7B9CA796}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92AA057-CB86-4646-A525-E49E7B9CA796}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F92AA057-CB86-4646-A525-E49E7B9CA796}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92AA057-CB86-4646-A525-E49E7B9CA796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92AA057-CB86-4646-A525-E49E7B9CA796}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C42B183C-686A-4CF1-BD27-CA2840BBD6C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42B183C-686A-4CF1-BD27-CA2840BBD6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42B183C-686A-4CF1-BD27-CA2840BBD6C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C42B183C-686A-4CF1-BD27-CA2840BBD6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42B183C-686A-4CF1-BD27-CA2840BBD6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42B183C-686A-4CF1-BD27-CA2840BBD6C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC214FD-08D4-4318-AE8E-50940FE5B93C}
+	EndGlobalSection
+EndGlobal
